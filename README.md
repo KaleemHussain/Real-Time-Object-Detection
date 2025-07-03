@@ -1,6 +1,5 @@
 👨‍💻 Author
 Made by Kaleem_Hussain
-Bachelor of Science in Artificial Intelligence
 
 # Real-Time-Object-Detection
 
