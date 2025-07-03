@@ -1,6 +1,3 @@
-👨‍💻 Author
-Made by Kaleem_Hussain
-
 # Real-Time-Object-Detection
 
 ## 🔧 Requirements
@@ -28,3 +25,6 @@ The webcam will start and objects in view will be detected and labeled in real-t
 
 ⏹ Exit the Program
 Press q on your keyboard to quit the video window.
+
+👨‍💻 Author
+Made by Kaleem_Hussain
