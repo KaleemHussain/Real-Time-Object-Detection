@@ -1,5 +1,5 @@
 👨‍💻 Author
-Made with ❤️ by Kaleem_Hussaim
+Made by Kaleem_Hussain
 Bachelor of Science in Artificial Intelligence
 
 # Real-Time-Object-Detection
