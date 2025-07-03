@@ -1,6 +1,8 @@
+👨‍💻 Author
+Made with ❤️ by Kaleem_Hussaim
+Bachelor of Science in Artificial Intelligence
+
 # Real-Time-Object-Detection
-
-
 
 ## 🔧 Requirements
 - Python 3.x
