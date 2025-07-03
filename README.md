@@ -9,11 +9,11 @@ Made by Kaleem_Hussain
 - Numpy
 
 ## 📁 Folder Structure
-real_time_object_detection/
-├── yolov3.cfg
-├── yolov3.weights
-├── coco.names
-└── object_detection.py
+# real_time_object_detection/
+# yolov3.cfg
+# yolov3.weights
+# coco.names
+# object_detection.py
 
 ▶️ How to Run the Project
 Open terminal or command prompt.
